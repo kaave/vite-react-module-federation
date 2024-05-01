@@ -1,5 +1,8 @@
 # React - Vite Federation Demo
 
+> [!IMPORTANT]
+> Upstream: <https://github.com/originjs/vite-plugin-federation/tree/main/packages/examples/react-vite>
+
 This example demos consumption of federated modules from a vite bundle. `host` (react based) depends on a component exposed by `remote` app (react based).
 
 ## Running
